@@ -1,103 +1,147 @@
-<!-- Header Section -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;">
-  مرحباً 👋، أنا Mr.OSKAR
-</h1>
-<h3 align="center">🤖 مهندس ذكاء اصطناعي | تعلم آلي | تعلم عميق | علم البيانات 📊</h3>
+<!-- Animated Header Section -->
+<div align ="center ">
+<h1 style="font-size:50; color:#FF00FF;">Mr.OSKAR </h1>
+</div>
+<div align="center">
+  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Machine+Learning+Developer;Deep+Learning+Researcher;Data+Science+Lover" alt="Typing SVG" />
-</p>
+
+![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=888E&repeat=false&width=500&height=40&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer;Machine+Learning+Expert;Data+Science+Enthusiast)
+
+</div>
 
 ---
 
-<!-- Badges / Contact -->
+<!-- Contact Section -->
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oskar1python@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrazzaq-al-surabi-783579304/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967773957426)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oskar-77)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oskar-77)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7130?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
 ---
 
-## 📌 عني
+## 📌 About Me
 
-<p align="justify">
-🌍 مقيم في <b>اليمن</b><br>
-🚀 شغوف بـ <b>الذكاء الاصطناعي والتعلم الآلي</b><br>
-📚 أتعلم دائماً تقنيات جديدة في <b>التعلم العميق، معالجة اللغة الطبيعية، والرؤية الحاسوبية</b><br>
-💡 أحب بناء أنظمة ذكية تحل <b>مشاكل واقعية</b>
-</p>
+> *"Transforming data into intelligent solutions"*
 
----
-
-## 🛠️ المهارات والتقنيات
-
-### 🤖 الذكاء الاصطناعي والتعلم الآلي
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras">
-</p>
-
-### 📊 علم البيانات والتحليل
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=flat&logo=python&logoColor=white" alt="Seaborn">
-</p>
-
-### 🌐 الويب وواجهات برمجة التطبيقات
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### ⚙️ الأدوات
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-</p>
+🌍 **Based in Yemen**  
+🚀 **Passionate about Artificial Intelligence & Machine Learning**  
+📚 **Constantly learning** new technologies in Deep Learning, NLP, and Computer Vision  
+💡 **Love to build** intelligent systems that solve real-world problems  
+🎯 **Focusing on** developing scalable AI solutions for various industries
 
 ---
 
-## 🚀 المشاريع البارزة
+## 🛠️ Technical Skills
 
-- 🧠 **منصة SEO بالذكاء الاصطناعي** - منصة ويب بأدوات الذكاء الاصطناعي لتحسين محركات البحث.
-- 📈 **لوحة تحليل البيانات** - لوحات تحكم تفاعلية للبيانات الضخمة.
-- 🤖 **مساعد دردشة آلي** - بوت تيلجرام مدعوم بالذكاء الاصطناعي لأتمتة الأعمال.
-- 🖼 **تطبيق الرؤية الحاسوبية** - تطبيق للتعرف على الصور وكشف المشاعر الوجهية.
+### 🤖 Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+</p>
+
+### 📊 Data Science & Analysis
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+</p>
+
+### 🌐 Web Development & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
+
+### 🗃️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+</p>
+
+### ⚙️ Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
-
-## 📊 إحصائيات GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=oskar-77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=ffffff&icon_color=20C20E)
-![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=ffffff)
-
-![شريط التمرير](https://github.com/oskar-77/oskar-77/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oskar-77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oskar-77&theme=radical&hide_border=true&background=0d1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF)
 
 </div>
 
 ---
 
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oskar-77&theme=react-dark&bg_color=0d1117&hide_border=true&color=FF00FF&line=FF00FF&point=FFFFFF)
+
+---
+
+
+## 🚀 Featured Projects
+
+### 🤖 AI & Machine Learning
+- **AI SEO Platform** - Web platform with AI tools for SEO optimization and content analysis
+- **Intelligent Chatbot** - Context-aware chatbot with NLP capabilities for customer service
+- **Predictive Analytics System** - Machine learning models for business forecasting
+- **Computer Vision App** - Real-time image recognition and face emotion detection system
+- **Recommendation Engine** - Personalized content recommendation system using collaborative filtering
+
+### 📊 Data Science & Visualization
+- **Data Analytics Dashboard** - Interactive dashboards for big data visualization and insights
+- **Sales Forecasting Tool** - Time series analysis for predicting sales trends
+- **Customer Segmentation** - Clustering algorithm for market segmentation
+- **Sentiment Analysis** - NLP tool for analyzing customer feedback and reviews
+- **Fraud Detection System** - Anomaly detection algorithms for identifying fraudulent activities
+
+### 🌐 Web Development
+- **E-commerce AI Assistant** - Smart product recommendation and search system
+- **API Integration Platform** - Middleware for connecting various services and APIs
+- **Real-time Analytics** - Live data processing and visualization dashboard
+- **Automated Reporting System** - AI-powered report generation and distribution
+
+---
+
+
 <div align="center">
 
-### ✨ لنبني المستقبل مع الذكاء الاصطناعي ✨
+### ✨ Let's build the future with AI together! ✨
 
-![Visitors](https://komarev.com/ghpvc/?username=oskar-77&color=20C20E&style=flat)
+
 
 </div>
