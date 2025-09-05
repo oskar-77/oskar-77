@@ -11,6 +11,17 @@
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oskar-77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oskar-77&theme=radical&hide_border=true&background=0d1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF)
+
+</div>
+
+---
 
 <!-- Contact Section -->
 <div align="center">
@@ -94,17 +105,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oskar-77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oskar-77&theme=radical&hide_border=true&background=0d1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
