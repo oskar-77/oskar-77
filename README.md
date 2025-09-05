@@ -1,5 +1,5 @@
 <!-- Animated Header Section -->
-<div align ="center ">
+<div align ="center " style="font-size:50; color:#FF00FF;">
 <h1 style="font-size:50; color:#FF00FF;">Mr.OSKAR </h1>
 </div>
 <div align="center">
